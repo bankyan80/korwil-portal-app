@@ -15,9 +15,13 @@ const CONFIG = {
 
 // Firebase Config - Ganti dengan konfigurasi Firebase Anda
 let firebaseConfig = {
-  apiKey: localStorage.getItem('fbKey') || 'YOUR_API_KEY',
-  authDomain: localStorage.getItem('fbProject') ? `${localStorage.getItem('fbProject')}.firebaseapp.com` : 'YOUR_PROJECT.firebaseapp.com',
-  projectId: localStorage.getItem('fbProject') || 'YOUR_PROJECT_ID',
+  apiKey: localStorage.getItem('fbKey') || 'AIzaSyBnILMRQYvxTneBoXPilKPrmz7qknNRl_4',
+  authDomain: localStorage.getItem('fbProject') ? `${localStorage.getItem('fbProject')}.firebaseapp.com` : 'kedinasan-e5317.firebaseapp.com',
+  projectId: localStorage.getItem('fbProject') || 'kedinasan-e5317',
+  databaseURL: 'https://kedinasan-e5317-default-rtdb.asia-southeast1.firebasedatabase.app',
+  storageBucket: 'kedinasan-e5317.firebasestorage.app',
+  messagingSenderId: '1028966349554',
+  appId: '1:1028966349554:web:391329f2c8da2ca1802e6b',
 };
 
 // ============================================

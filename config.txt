@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyBnILMRQYvxTneBoXPilKPrmz7qknNRl_4",
+  authDomain: "kedinasan-e5317.firebaseapp.com",
+  databaseURL: "https://kedinasan-e5317-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "kedinasan-e5317",
+  storageBucket: "kedinasan-e5317.firebasestorage.app",
+  messagingSenderId: "1028966349554",
+  appId: "1:1028966349554:web:391329f2c8da2ca1802e6b"
+};
