@@ -8,7 +8,7 @@
 // ============================================
 const CONFIG = {
   // Ganti dengan URL Web App Google Apps Script Anda
-  API_URL: localStorage.getItem('apiUrl') || 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec',
+  API_URL: localStorage.getItem('apiUrl') || 'https://script.google.com/macros/s/AKfycbwtsZPTT0lJ6o-Ncxxai9pE8q-rvczPgxzp9efuUgC_P4j9221tgiDyX9rv5xgoAItO/exec',
   CACHE_DURATION: 5 * 60 * 1000, // 5 menit
   CACHE_PREFIX: 'pk_',
 };
