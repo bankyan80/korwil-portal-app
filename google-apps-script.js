@@ -21,7 +21,7 @@ laporan_bulanan, bup, spmb, alumni, arsip_pegawai
 
 */
 
-const SPREADSHEET_ID = 'GANTI_DENGAN_ID_GOOGLE_SHEET_ANDA';
+const SPREADSHEET_ID = '14v0ykMflGpnb-m-FbhG-GvNieMTFs_t_u3v4KOMxijQ';
 
 // ============================================
 // HELPER FUNCTIONS
